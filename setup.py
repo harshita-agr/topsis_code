@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'topsis_code',         
   packages = ['topsis_code'],   
-  version = '0.3',      
+  version = '0.4',      
   license='MIT',        
   description = 'code on topsis',  
   author = 'Harshita Agarwal',               
   author_email = 'harshitaagrawal1998@gmail.com',      
   url = 'https://github.com/harshita-agr/topsis_code',   
-  download_url = 'https://github.com/harshita-agr/topsis_code/archive/v_03.tar.gz',    
+  download_url = 'https://github.com/harshita-agr/topsis_code/archive/v_04.tar.gz',    
   keywords = ['TOPSIS'],
   install_requires=[                     
           'pandas', 
