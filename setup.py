@@ -5,7 +5,7 @@ setup(
   version = '0.3',      
   license='MIT',        
   description = 'code on topsis',  
-  author = 'YOUR NAME',                   # Type in your name
+  author = 'Harshita Agarwal',               
   author_email = 'harshitaagrawal1998@gmail.com',      
   url = 'https://github.com/harshita-agr/topsis_code',   
   download_url = 'https://github.com/harshita-agr/topsis_code/archive/v_03.tar.gz',    
