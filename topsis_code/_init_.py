@@ -1,1 +1,1 @@
-from topsis_code.topsis import topsisfnc,main
+from topsis_code.topsis import topsis_fnc,main
